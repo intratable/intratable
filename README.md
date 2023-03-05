@@ -16,11 +16,7 @@
     </a><br>
 </p>
 
-<p align="center">
-    <a href="https://github.com/D3Ext">
-        <img alt="Demo" src="https://raw.githubusercontent.com/D3Ext/D3Ext/main/assets/demo.gif" width="550">
-    </a><br>
-</p>
+
 
 
 
