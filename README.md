@@ -2,11 +2,12 @@
     <img src="/assets/1.jpg" width="150" heigth="75" alt="Logo"/></br>
         INTRATABLE
     <h5 align="center">
-       ACABSUKI</br>
-        ACABSUKI
+       quema sangre</br>
+        malasideasentertainment
     </h5>
     <h5 align="center">
-       Hay seres humanos y hombres, alma y ideología. Y yo estoy pegado como un indio a su lanza
+       Hay seres humanos y hombres, alma y ideología.
+        Y yo estoy pegado como un indio a su lanza
     </h5>
 </h3>
 
