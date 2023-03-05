@@ -6,7 +6,7 @@
         ACABSUKI
     </h5>
     <h5 align="center">
-        If you wanna develop some red team tool in Golang contact with me ;)
+       Hay seres humanos y hombres, alma y ideología. Y yo estoy pegado como un indio a su lanza
     </h5>
 </h3>
 
@@ -20,7 +20,7 @@
 
 
 
-<h2 align="center">Github Stats</h2>
+<h2 align="center">Github Estadisticas</h2>
 <p align="center">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=intratable&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/><br><br>
     <a href="https://github.com/intratable">
