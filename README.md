@@ -50,7 +50,7 @@
 
 <h3 align="center">
     <p align="center">
-        <a href="acabsuki.store">acabsuki.store :satellite:</a><br><br>
+        <a href="acabsuki.store">:satellite: acabsuki.store :satellite:</a><br><br>
         
     </p>
 </h3>
