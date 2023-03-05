@@ -10,7 +10,7 @@
         Y yo estoy pegado como un indio a su lanza
     </h5>
 </h3>
-<h2 align="center">Estadiscitcas</h2>
+<h2 align="center">Estadisticas</h2>
 <div align="center">
   <a href="https://github.com/intratable">
     <p align="center">
@@ -25,13 +25,13 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
   <br>
 </div>
-<div> 
+<div align="center"> 
 <h2 align="center">🏆</h2> 
-<div align="center">
+
 <a href="https://github.com/intratable/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=intratable&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
-    </div>
+   
 </div>
   
 <h2 align="center">⚡</h2>  
