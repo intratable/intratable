@@ -1,6 +1,6 @@
 <h3 align="center">
     <img src="" width="150" heigth="75" alt="Logo"/></br>
-        D3Ext  
+        quema sangre  
     <h5 align="center">
        ACABSUKI</br>
         ACABSUKI
@@ -22,14 +22,7 @@
     </a><br>
 </p>
 
-<h2 align="center">Social Media</h2>
-<p align="center">
-   
-    <a href="https://www.instagram.com/ciber.delincuente/">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"/>
-    </a>
-   
-</p><br>
+
 
 <h2 align="center">Github Stats</h2>
 <p align="center">
@@ -61,11 +54,11 @@
 
 <h3 align="center">
     <p align="center">
-        <a href="https://github.com/D3Ext/WEF">WiFi-Exploitation-Framework :satellite:</a><br><br>
-        <a href="https://github.com/D3Ext/AORT">All in One Recon Tool :mag_right:</a><br><br>
-        <a href="https://github.com/D3Ext/aesthetic-wallpapers">Aesthetic Wallpapers :sparkles:</a><br><br>
-        <a href="https://github.com/D3Ext/maldev">Maldev :scroll:</a><br><br>
-        <a href="https://github.com/D3Ext/DFShell">DFShell :crystal_ball:</a><br><br>
+        <a href="">WiFi-Exploitation-Framework :satellite:</a><br><br>
+        <a href="T">All in One Recon Tool :mag_right:</a><br><br>
+        <a href="">Aesthetic Wallpapers :sparkles:</a><br><br>
+        <a href="">Maldev :scroll:</a><br><br>
+        <a href="">DFShell :crystal_ball:</a><br><br>
     </p>
 </h3>
 
