@@ -61,22 +61,6 @@
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
-    
-</div>
- 
-
- 
-
-
-
-
-<p align="center">
-  <a href="https://github.com/intratable">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Nahuel61920&theme=react-dark" />
-  </a>
-</p>
-
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
