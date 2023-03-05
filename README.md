@@ -1,9 +1,9 @@
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/rounded-shark.png" width="150" heigth="75" alt="Logo"/></br>
+    <img src="" width="150" heigth="75" alt="Logo"/></br>
         D3Ext  
     <h5 align="center">
-        I'm a young red teamer, offensive tools developer and Linux lover.</br>
-        Learning low level stuff and much more, checkout my repos
+       ACABSUKI</br>
+        ACABSUKI
     </h5>
     <h5 align="center">
         If you wanna develop some red team tool in Golang contact with me ;)
@@ -11,8 +11,8 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/D3Ext?tab=followers">
-        <img alt="Followers" src="https://img.shields.io/github/followers/D3Ext?style=for-the-badge&logo=starship&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"/>
+    <a href="https://github.com/intratable?tab=followers">
+        <img alt="Followers" src="https://img.shields.io/github/followers/intratable?style=for-the-badge&logo=starship&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"/>
     </a><br>
 </p>
 
