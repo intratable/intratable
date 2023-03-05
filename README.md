@@ -24,16 +24,7 @@
   <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
   <br>
-</div>
-<div align="center"> 
-<h2 align="center">🏆</h2> 
-
-<a href="https://github.com/intratable/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=intratable&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-   
-</div>
-  
+</div>  
 <h2 align="center">⚡</h2>  
 <div align="center">
 #### Front-end:
@@ -66,9 +57,6 @@
 <br>
 
 </div>
-
-
-
 <h2 align="center">Sistemas Operativos</h2>
 <p align="center">
     <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"/>
