@@ -33,7 +33,7 @@
 </div>
   
 <h2 align="center">⚡</h2>  
-  
+<div align="center">
 #### Front-end:
 <div>
   <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -59,10 +59,12 @@
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
+    
+</div>
  
 
  
-<p align="center"><img src="animation.gif" width="35%"></p>
+
 <div style=" font-size: medium; color: #447ff7" align=center>
 
 
