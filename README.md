@@ -27,9 +27,11 @@
 </div>
 <div> 
 <h2 align="center">🏆</h2> 
+<div align="center">
 <a href="https://github.com/intratable/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=intratable&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
+    </div>
 </div>
   
 <h2 align="center">⚡</h2>  
@@ -65,7 +67,7 @@
 
  
 
-<div style=" font-size: medium; color: #447ff7" align=center>
+
 
 
 <p align="center">
