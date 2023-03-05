@@ -12,7 +12,7 @@
 </h3>
 
 
-##  GitHub Analytics ⚙️
+##  GitHub Estadisticas ⚙️
 <div align="center">
   <a href="https://github.com/intratable">
     <p align="center">
@@ -26,6 +26,15 @@
   <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
   <br>
+</div>
+
+<div>
+ 
+## GitHub Profile Trophy 🏆 
+<a href="https://github.com/Nahuel61920/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Nahuel61920&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
+ 
 </div>
   
 ##  Skills ⚡
@@ -58,16 +67,6 @@
  
 
  
-<div>
- 
-## GitHub Profile Trophy 🏆 
-<a href="https://github.com/Nahuel61920/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Nahuel61920&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
- 
-</div>
-
-
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #447ff7" align=center>
 
