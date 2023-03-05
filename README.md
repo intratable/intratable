@@ -24,22 +24,18 @@
 
 <h2 align="center">Social Media</h2>
 <p align="center">
-    <a href="https://twitter.com/D3Ext">
-        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"/>
-    </a>
-    <a href="https://www.instagram.com/D3Ext/">
+   
+    <a href="https://www.instagram.com/ciber.delincuente/">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"/>
     </a>
-    <a href="">
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"/>
-    </a>
+   
 </p><br>
 
 <h2 align="center">Github Stats</h2>
 <p align="center">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=D3Ext&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/><br><br>
-    <a href="https://github.com/D3Ext">
-        <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=D3Ext&theme=nord&row=1"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=intratable&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/><br><br>
+    <a href="https://github.com/intratable">
+        <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=intratable&theme=nord&row=1"/>
     </a>
     <br>
 </p><br>
@@ -74,5 +70,5 @@
 </h3>
 
 <h4 align="center">
-    ~ D3Ext ~
+    ~ malasideascorp ~
 </h4>
