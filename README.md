@@ -11,23 +11,16 @@
     </h5>
 </h3>
 
-<p align="center">
-    <a href="https://github.com/intratable?tab=followers">
-        <img alt="Followers" src="https://img.shields.io/github/followers/intratable?style=for-the-badge&logo=starship&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"/>
-    </a><br>
-</p>
-
-
 
 ##  GitHub Analytics ⚙️
 <div align="center">
-  <a href="https://github.com/Nahuel61920">
+  <a href="https://github.com/intratable">
     <p align="center">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nahuel61920&show_icons=true&theme=github_dark&hide_border=true" />
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nahuel61920&theme=github-dark-blue&hide_border=true" />
-      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nahuel61920&theme=github_dark&hide_border=true"/>
-      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nahuel61920&theme=github_dark&hide_border=true"/>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel61920&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=intratable&show_icons=true&theme=github_dark&hide_border=true" />
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=intratable&theme=github-dark-blue&hide_border=true" />
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=intratable&theme=github_dark&hide_border=true"/>
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intratable&theme=github_dark&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intratable&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
     </p>
   </a>
   <p  align="center">
@@ -76,13 +69,9 @@
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
  
-##  Contacts :speech_balloon:
+
  
 <div>
-  <a href = "mailto:estebancarrizo619@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/nahuelcarrizolc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5493815360966" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/esteban-nahuel-carrizo-69715422b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ## GitHub Profile Trophy 🏆 
 <a href="https://github.com/Nahuel61920/github-profile-trophy">
