@@ -2,6 +2,9 @@
     Hay seres humanos y hombres, alma y ideología.
      Y yo estoy pegado como un indio a su lanza
 </h3>
+ <p  align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+  <br>
 <h2 align="center">Estadisticas</h2>
 <div align="center">
   <a href="https://github.com/intratable">
@@ -13,9 +16,7 @@
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intratable&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
     </p>
   </a>
-  <p  align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-  <br>
+ 
 </div>  
 <h2 align="center">⚡</h2>  
 <div align="center">
