@@ -1,8 +1,9 @@
 <h3 align="center">
     <img src="/assets/1.jpg" width="150" heigth="75" alt="Logo"/></b>
     Hay seres humanos y hombres, alma y ideología.
-    <h5 align="center">
      Y yo estoy pegado como un indio a su lanza
+    <h5 align="center">
+    
     </h5>
     <h5 align="center">
        
