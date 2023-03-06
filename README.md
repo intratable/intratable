@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="/assets/1.jpg" width="150" heigth="75" alt="Logo"/>
+    <img align="center" src="/assets/1.jpg" width="150" heigth="75" alt="Logo"/>
     Hay seres humanos y hombres, alma y ideología.
      Y yo estoy pegado como un indio a su lanza
     
