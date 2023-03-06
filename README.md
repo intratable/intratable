@@ -1,6 +1,5 @@
 <h3 align="center">
-    <img src="/assets/1.jpg" width="150" heigth="75" alt="Logo"/></br>
-        INTRATABLE
+    <img src="/assets/1.jpg" width="150" heigth="75" alt="Logo"/>
     <h5 align="center">
     </h5>
     <h5 align="center">
