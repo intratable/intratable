@@ -2,10 +2,11 @@
     <img src="/assets/1.jpg" width="150" heigth="75" alt="Logo"/></b>
     Hay seres humanos y hombres, alma y ideología.
     <h5 align="center">
+     Y yo estoy pegado como un indio a su lanza
     </h5>
     <h5 align="center">
        
-        Y yo estoy pegado como un indio a su lanza
+       
     </h5>
 </h3>
 <h2 align="center">Estadisticas</h2>
