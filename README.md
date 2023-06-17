@@ -58,9 +58,9 @@
 </h3>
 
 <h4 align="center">
-    ~ malasideascorp ~
-    ~ malasideasentertainment ~
-    ~ doblagorrasSL ~
+    ~ malasideascorp 
+    ~ malasideasentertainment 
+    ~ doblagorrasSL 
     ~ CyberLeaks ~
     
 </h4>
