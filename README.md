@@ -47,9 +47,6 @@
     Hay seres humanos y hombres, alma y ideología.
      Y yo estoy pegado como un indio a su lanza
 </h3>
-<h2 align="center">
-    Proyectos:
-</h2>
 
 <h3 align="center">
     <p align="center">
