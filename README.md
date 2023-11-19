@@ -48,19 +48,6 @@
      Y yo estoy pegado como un indio a su lanza
 </h3>
 
-<h3 align="center">
-    <p align="center">
-        <a href="htts://acabsuki.store">:satellite: acabsuki.store :satellite:</a><br><br>  
-         <a href="htts://cyberleak.store">:satellite: cyberleark.store :satellite:</a><br><br>  
-</h3>
-
-<h4 align="center">
-    ~ malasideascorp 
-    ~ malasideasentertainment 
-    ~ doblagorrasSL 
-    ~ CyberLeaks 
-    ~ Losdeafuerasondepalo ~
-</h4>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
