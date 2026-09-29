@@ -32,19 +32,15 @@ CREDS       : eCPPTv2 (Certified Professional Penetration Tester)
             : eWPT (Web Application Penetration Tester)
             : eJPT (Junior Penetration Tester)
             : Carrera de Ciberseguridad (Educación IT)
-TARGETING   : B2B Security Audits | Active Directory Infrastructure | Cloud Hardening
+ 
 ECOSYSTEM   : Multi-threading Go/Rust Scanners | Chinese Offensive Automation | C2 Engineering
-ARSENAL     : 400+ Curated Repositories & Tactical Vectors
+ARSENAL     :  
 ```
 
 ---
 
-## 📊 TELEMETRÍA DE ACTIVIDAD // GITHUB METRICS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=intratable&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intratable&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
-</div>
+ 
+ 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=intratable&theme=tokyonight&hide_border=true&background=0d1117" height="140" alt="GitHub Streak" />
