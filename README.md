@@ -62,25 +62,26 @@ Con el respaldo técnico práctico de **eCPPTv2** y **eWPTv1**, el nivel operati
 
 ---
 
-## 🌟 GITHUB STAR LISTS // ACCESO DIRECTO CLASIFICADO
+## 🌟 GITHUB STAR LISTS // 8 LISTAS ETIQUETADAS OFICIALES
 
-Navega por las colecciones organizadas directamente en la interfaz de GitHub Stars:
+Accede directamente a tus listas limpias organizadas en la interfaz de GitHub:
 
-| Lista de Estrellas | Descripción Táctica | Acceso Directo |
-| :--- | :--- | :---: |
-| 🐉 **Chinese Offensive & Automation** | fscan, Ladon, Yakit, afrog, rad, OneForAll, HackBrowserData | [Abrir Lista](https://github.com/stars/intratable/lists/chinese-offensive-automation) |
-| ⚙️ **DevSecOps & Cloud Security** | Trivy, Semgrep, DefectDojo, Checkov, Gitleaks, Nuclei | [Abrir Lista](https://github.com/stars/intratable/lists/devsecops-cloud-security) |
-| 📋 **Compliance & Pentest Auditing** | Pwndoc, API Security Checklist, PayloadsAllTheThings, BugBounty | [Abrir Lista](https://github.com/stars/intratable/lists/compliance-pentest-auditing) |
-| ⚡ **Red Teaming** | Evasión de EDR, inyección de memoria, Cobalt/Havoc/Sliver, C2 | [Abrir Lista](https://github.com/stars/intratable/lists/red-teaming) |
-| 🐛 **Bug Bounty && Web Pentesting** | Mapeo de superficie de ataque, fuzzers, scanners, PoCs web | [Abrir Lista](https://github.com/stars/intratable/lists/bug-bounty-web-pentesting) |
-| 🔬 **Forenze & Anti-Forense** | Análisis forense de memoria, reversing y técnicas de evasión | [Abrir Forense](https://github.com/stars/intratable/lists/forenze) / [Anti-Forense](https://github.com/stars/intratable/lists/anti-forense) |
-| 🔍 **OSINT** | Inteligencia de fuentes abiertas y reconocimiento de objetivos | [Abrir Lista](https://github.com/stars/intratable/lists/osint) |
+| Lista de Estrellas | Vector Operativo | Repos | Acceso Directo |
+| :--- | :--- | :---: | :---: |
+| ⚡ **Red Teaming & Evasion** | C2 Frameworks (Sliver, Havoc, Empire), MalDev, EDR/AV Evasion, Memory Injection | `107` | [Abrir Lista](https://github.com/stars/intratable/lists/red-teaming-evasion) |
+| 🐉 **Chinese Offensive & Automation** | Escaneo masivo de intranet en Go/Rust (fscan, Ladon, Yakit, afrog, rad, OneForAll) | `16` | [Abrir Lista](https://github.com/stars/intratable/lists/chinese-offensive-automation) |
+| 🔍 **OSINT & Recon** | Recolección de fuentes abiertas, Telegram OSINT, Sherlock, Mosint, Photon | `22` | [Abrir Lista](https://github.com/stars/intratable/lists/osint-recon) |
+| 📋 **Compliance & Pentest Auditing** | Plantillas de reporte, Pwndoc, PayloadsAllTheThings, Cheatsheets OSCP/CRTO | `14` | [Abrir Lista](https://github.com/stars/intratable/lists/compliance-pentest-auditing) |
+| 🔬 **DFIR & Reverse Engineering** | Análisis forense digital, Ghidra, Volatility, MemProcFS, reversing y anti-dbg | `14` | [Abrir Lista](https://github.com/stars/intratable/lists/dfir-reverse-engineering) |
+| 🐬 **Hardware Hacking & RF** | Firmwares Flipper Zero (Unleashed/Xtreme), Evil Portals, BadUSB, Wi-Fi | `13` | [Abrir Lista](https://github.com/stars/intratable/lists/hardware-hacking-rf) |
+| 🌐 **Web Pentesting & Bug Bounty** | ProjectDiscovery Suite (Nuclei, Httpx, Katana), Ffuf, SQLMap, Fuzzers | `12` | [Abrir Lista](https://github.com/stars/intratable/lists/web-pentesting-bug-bounty) |
+| ⚙️ **DevSecOps & Cloud Security** | Trivy, Semgrep, DefectDojo, Checkov, Gitleaks, seguridad en CI/CD | `9` | [Abrir Lista](https://github.com/stars/intratable/lists/devsecops-cloud-security) |
 
 ---
 
 ## ⚡ CORE TACTICAL MODULES // ARSENAL CLASIFICADO (400+ REPOS)
 
-Explora la base de conocimiento completa categorizada en [ARSENAL.md](ARSENAL.md):
+Explora la base de conocimiento y descripción exhaustiva de todas las herramientas en [ARSENAL.md](ARSENAL.md):
 
 | Módulo | Vector Operativo | Ecosistema / Herramientas Clave | Acceso Directo |
 | :---: | :--- | :--- | :---: |
