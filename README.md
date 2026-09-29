@@ -62,9 +62,25 @@ Con el respaldo técnico práctico de **eCPPTv2** y **eWPTv1**, el nivel operati
 
 ---
 
-## ⚡ CORE TACTICAL MODULES // ARSENAL CLASIFICADO
+## 🌟 GITHUB STAR LISTS // ACCESO DIRECTO CLASIFICADO
 
-Los 400+ repositorios con estrella de la cuenta están organizados en módulos operacionales interactivos:
+Navega por las colecciones organizadas directamente en la interfaz de GitHub Stars:
+
+| Lista de Estrellas | Descripción Táctica | Acceso Directo |
+| :--- | :--- | :---: |
+| 🐉 **Chinese Offensive & Automation** | fscan, Ladon, Yakit, afrog, rad, OneForAll, HackBrowserData | [Abrir Lista](https://github.com/stars/intratable/lists/chinese-offensive-automation) |
+| ⚙️ **DevSecOps & Cloud Security** | Trivy, Semgrep, DefectDojo, Checkov, Gitleaks, Nuclei | [Abrir Lista](https://github.com/stars/intratable/lists/devsecops-cloud-security) |
+| 📋 **Compliance & Pentest Auditing** | Pwndoc, API Security Checklist, PayloadsAllTheThings, BugBounty | [Abrir Lista](https://github.com/stars/intratable/lists/compliance-pentest-auditing) |
+| ⚡ **Red Teaming** | Evasión de EDR, inyección de memoria, Cobalt/Havoc/Sliver, C2 | [Abrir Lista](https://github.com/stars/intratable/lists/red-teaming) |
+| 🐛 **Bug Bounty && Web Pentesting** | Mapeo de superficie de ataque, fuzzers, scanners, PoCs web | [Abrir Lista](https://github.com/stars/intratable/lists/bug-bounty-web-pentesting) |
+| 🔬 **Forenze & Anti-Forense** | Análisis forense de memoria, reversing y técnicas de evasión | [Abrir Forense](https://github.com/stars/intratable/lists/forenze) / [Anti-Forense](https://github.com/stars/intratable/lists/anti-forense) |
+| 🔍 **OSINT** | Inteligencia de fuentes abiertas y reconocimiento de objetivos | [Abrir Lista](https://github.com/stars/intratable/lists/osint) |
+
+---
+
+## ⚡ CORE TACTICAL MODULES // ARSENAL CLASIFICADO (400+ REPOS)
+
+Explora la base de conocimiento completa categorizada en [ARSENAL.md](ARSENAL.md):
 
 | Módulo | Vector Operativo | Ecosistema / Herramientas Clave | Acceso Directo |
 | :---: | :--- | :--- | :---: |
@@ -76,17 +92,6 @@ Los 400+ repositorios con estrella de la cuenta están organizados en módulos o
 | **06** | **DevSecOps & Code Security** | SAST/DAST, Gitleaks, Semgrep, Trivy, Checkov, DefectDojo | [Abrir Módulo](ARSENAL.md#módulo-06-devsecops-sastdast--seguridad-en-código) |
 | **07** | **Hardware Hacking & RF** | Flipper Zero (Unleashed/Xtreme), Evil Portals, BadUSB | [Abrir Módulo](ARSENAL.md#módulo-07-hardware-hacking-rf--flipper-zero) |
 | **08** | **CVE PoCs & Cheatsheets** | PayloadsAllTheThings, Metodologías OSCP/CRTO, Exploits | [Abrir Módulo](ARSENAL.md#módulo-08-exploits-cve-cheatsheets--certificaciones) |
-
----
-
-## 🌟 LISTAS DE ESTRELLAS DIRECTAS EN GITHUB (STAR LISTS)
-
-Navega por las colecciones etiquetadas directamente en GitHub:
-- 🎯 [Red Teaming List](https://github.com/stars/intratable/lists/red-teaming) *(50 repos)*
-- 🐛 [Bug Bounty && Web Pentesting List](https://github.com/stars/intratable/lists/bug-bounty-web-pentesting) *(47 repos)*
-- 🔬 [Forenze List](https://github.com/stars/intratable/lists/forenze) *(20 repos)*
-- 🛡️ [Anti-Forense List](https://github.com/stars/intratable/lists/anti-forense) *(7 repos)*
-- 🔍 [OSINT List](https://github.com/stars/intratable/lists/osint) *(1 repo)*
 
 ---
 
